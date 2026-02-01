@@ -137,7 +137,7 @@ Skills Demonstrated
 
 ---
 
-## 👤 Author
+Author
 
 Abu Sufiyan  
 Aspiring Data Analyst | Python | SQL | Power BI
