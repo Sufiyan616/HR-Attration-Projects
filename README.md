@@ -86,7 +86,7 @@ The dashboard helps HR quickly identify high-risk areas.
 
 ---
 
-## 📊 Key Insights
+Key Insights
 
 From this analysis, I found:
 
@@ -98,7 +98,7 @@ From this analysis, I found:
 
 ---
 
-## 💡 Business Recommendations
+Business Recommendations
 
 Based on the findings:
 
@@ -112,7 +112,7 @@ Based on the findings:
 
 
 
-## 🚀 How to Run
+How to Run
 
 Python:
 Install libraries and open notebook
@@ -125,7 +125,7 @@ Open the .pbix file
 
 ---
 
-## 🎯 Skills Demonstrated
+Skills Demonstrated
 
 - Data Cleaning
 - Exploratory Data Analysis
